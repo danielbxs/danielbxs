@@ -42,4 +42,4 @@ I'm a QA Engineer focused on building reliable software through manual testing, 
 ## Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danielbxs)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me)](https://danielbxs.github.io/portfolio)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me)](https://danielbxs.com)
