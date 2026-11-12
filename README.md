@@ -24,7 +24,7 @@ I'm a QA Engineer focused on building reliable software through manual testing, 
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr_Scale-1012ac?style=for-the-badge)
-
+![TestRail](https://img.shields.io/badge/TestRail-65c179?style=for-the-badge)
 
 ---
 
